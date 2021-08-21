@@ -17,4 +17,4 @@
     4. javascript
     5. google fonts
     
-   ##by Alexander Semeniaka (email - avsemeniaka@gmail.com)
+   ## by Alexander Semeniaka (email - avsemeniaka@gmail.com)
